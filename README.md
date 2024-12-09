@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm fumiya nemoto!
+# 👋 Hi there, I'm fumiya!
 I'm a beginner programmer learning Python, Java, and JavaScript. Here's what I'm up to:
 
 - 🌱 Currently learning: Python, Java, JavaScript
