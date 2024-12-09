@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there, I'm fumiya nemoto 👋
+
+- 🌱 I’m currently learning: JavaScript, React
+- 🔭 I’m working on: A personal portfolio site
+- 💬 Ask me about: Frontend development, UI/UX
 
 <!--
 **fumiya95/fumiya95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
